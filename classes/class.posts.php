@@ -161,7 +161,7 @@ class Posts
         return $stmt;
     }
 
-    public function get_posts($orderby = 'postDate',$way = 'ASC')
+    public function get_posts($orderby = 'postDate',$way = 'DESC')
     {
         $stmt = $this->db->query('SELECT * FROM '.TABLE_POST.' ORDER BY '.$orderby.' '.$way);
         return $stmt;
