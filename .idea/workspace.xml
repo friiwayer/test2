@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5209cf-3521-4144-8d22-eec8320e9e30" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/includes/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+            <state relative-caret-position="533">
+              <caret line="80" column="48" lean-forward="true" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -98,6 +98,7 @@
       <find>editpost</find>
       <find>loader</find>
       <find>editnews</find>
+      <find>editjs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,11 +113,11 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/edit.php" />
         <option value="$PROJECT_DIR$/json.php" />
-        <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/viewpost.php" />
         <option value="$PROJECT_DIR$/includes/post.php" />
         <option value="$PROJECT_DIR$/classes/class.posts.php" />
         <option value="$PROJECT_DIR$/includes/config.php" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -194,12 +195,12 @@
       <workItem from="1534000571364" duration="7601000" />
       <workItem from="1534010726229" duration="12471000" />
       <workItem from="1534056065280" duration="11409000" />
-      <workItem from="1534075488869" duration="10629000" />
+      <workItem from="1534075488869" duration="11275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47879000" />
+    <option name="totallyTimeSpent" value="48525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -439,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/viewpost.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -471,6 +465,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="80" column="48" lean-forward="true" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
         </state>
       </provider>
     </entry>

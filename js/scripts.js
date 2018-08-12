@@ -78,7 +78,7 @@ $(function () {
 
     });
 
-    $('.posts').find('a.pdel').click(function (e) {
+    $('body').on('click', 'a.pdel', function(e){
         e.preventDefault();
         var pid = $(this).data('id');
         $.post( "json.php", { deltpost: pid})
@@ -87,9 +87,11 @@ $(function () {
             });
     });
 
-    $('.posts').find('a.editjs').click(function (e) {
+    $('body').on('click', 'a.editjs', function(e){
         e.preventDefault();
         var idc = $(this).data('id');
+        console.log(idc);
         loader(idc);
     });
+
 });
