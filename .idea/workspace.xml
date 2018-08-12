@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5209cf-3521-4144-8d22-eec8320e9e30" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/class.posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class.posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,20 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class.posts.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="class.posts.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes/class.posts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="584">
               <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -109,7 +109,6 @@
         <option value="D:/works/Геленджик/infoblock.htm" />
         <option value="$PROJECT_DIR$/classes/class.password.php" />
         <option value="$PROJECT_DIR$/admin/index.php" />
-        <option value="$PROJECT_DIR$/includes/config.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/edit.php" />
         <option value="$PROJECT_DIR$/json.php" />
@@ -117,6 +116,7 @@
         <option value="$PROJECT_DIR$/viewpost.php" />
         <option value="$PROJECT_DIR$/includes/post.php" />
         <option value="$PROJECT_DIR$/classes/class.posts.php" />
+        <option value="$PROJECT_DIR$/includes/config.php" />
       </list>
     </option>
   </component>
@@ -194,12 +194,12 @@
       <workItem from="1534000571364" duration="7601000" />
       <workItem from="1534010726229" duration="12471000" />
       <workItem from="1534056065280" duration="11409000" />
-      <workItem from="1534075488869" duration="10024000" />
+      <workItem from="1534075488869" duration="10629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47274000" />
+    <option name="totallyTimeSpent" value="47879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -411,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -469,8 +462,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/class.posts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="584">
           <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

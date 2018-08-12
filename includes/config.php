@@ -15,23 +15,7 @@ try {
 }
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 date_default_timezone_set('Etc/GMT+3');
-function __autoload($class) {
-   
-   $class = strtolower($class);
 
-   $classpath = 'classes/class.'.$class . '.php';
-   if ( file_exists($classpath)) {
-      require_once $classpath;
-	}
-   $classpath = '../classes/class.'.$class . '.php';
-   if ( file_exists($classpath)) {
-      require_once $classpath;
-	}
-   $classpath = '../../classes/class.'.$class . '.php';
-   if ( file_exists($classpath)) {
-      require_once $classpath;
-	}
-}
 
 function head()
 {
