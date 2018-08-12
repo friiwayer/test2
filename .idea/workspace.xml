@@ -93,7 +93,7 @@
       <find>calculation</find>
       <find>primary</find>
       <find>data-vc-full-width</find>
-      <find>wpb_column vc_column_container vc_col-sm-9</find>
+      <find />
       <find>hr</find>
       <find>editpost</find>
       <find>loader</find>
@@ -130,7 +130,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1928" />
